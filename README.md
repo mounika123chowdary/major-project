@@ -1,10 +1,10 @@
 # major-project
-#Install mongodb and connect to mongodb://localhost:27017/seoblog
-#cd backend
-#npm install
-#cd frontend
-#npm install
-#cd backend 
-#npm start
-#cd frontend
-#npm run dev
+Install mongodb and connect to mongodb://localhost:27017/seoblog <br/>
+cd backend <br/>
+npm install <br/>
+cd frontend <br/>
+npm install <br/>
+cd backend  <br/>
+npm start <br/>
+cd frontend<br/>
+npm run dev
